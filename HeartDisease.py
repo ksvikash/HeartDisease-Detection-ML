@@ -12,7 +12,7 @@ Detect if someone has Heart Disease using ML and Python
 """)
 
 # Reads the CSV File
-df = pd.read_csv('C:/Users/VIKASH K S/PycharmProjects/HackHub_HealthCare/heart.csv')
+df = pd.read_csv('heart.csv')
 
 # Creates a subheading
 st.subheader('Data Information:')
